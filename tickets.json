@@ -1,7 +1,7 @@
 {
   "ticketsPendientes": [
     {
-      "codigo": "123459",
+      "id": "123459",
       "fecha": "18/04/2023",
       "aula": "T6",
       "grupo": "DAW1",
@@ -10,7 +10,7 @@
       "alumno": "Ana Martínez"
     },
     {
-      "codigo": "123460",
+      "id": "123460",
       "fecha": "19/04/2023",
       "aula": "T8",
       "grupo": "DAW2",
@@ -19,7 +19,7 @@
       "alumno": "Pedro Gómez"
     },
     {
-      "codigo": "123461",
+      "id": "123461",
       "fecha": "20/04/2023",
       "aula": "T6",
       "grupo": "DAW1",
@@ -28,7 +28,7 @@
       "alumno": "Sofía Fernández"
     },
     {
-      "codigo": "123462",
+      "id": "123462",
       "fecha": "21/04/2023",
       "aula": "T7",
       "grupo": "DAW2",
@@ -37,7 +37,7 @@
       "alumno": "Luis Torres"
     },
     {
-      "codigo": "123463",
+      "id": "123463",
       "fecha": "22/04/2023",
       "aula": "T8",
       "grupo": "DAW1",
